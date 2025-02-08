@@ -6,7 +6,7 @@ IP Address TrackMaster is a web platform that allows users to check the location
 IP Address TrackMaster
 
 ### **Live Preview**  
-To view a live preview of the site, [click here](#).  
+To view a live preview of the site, [click here](https://unmarked-kyuubi.github.io/ip-trackmaster/).  
 
 ## **Technologies Used**  
 
